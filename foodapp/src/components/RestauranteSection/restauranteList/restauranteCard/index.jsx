@@ -1,9 +1,9 @@
 export const RestauranteCard = ()=>{
     return(
         <li>
-            <img src="" alt="" />
-            <h3></h3>
-            <p></p>
+            <img src="./assets/Restaurant1.png" alt="imagem" />
+            <h3>card</h3>
+            <p>card</p>
         </li>
     )
 }
