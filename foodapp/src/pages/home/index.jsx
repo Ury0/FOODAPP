@@ -4,7 +4,7 @@ import { FormSection } from "../../components/BannerSection/formSection"
 import { Footer } from "../../components/Footer"
 import { Header } from "../../components/header"
 import { RestauranteSection } from "../../components/RestauranteSection"
-
+import "C:/Users/User/Documents/GitHub/FOODAPP/foodapp/src/style/homePage.css";
 export const HomePage = ()=>{
     return(
         <>
@@ -18,4 +18,4 @@ export const HomePage = ()=>{
             <Footer/>
         </>
     )
-}
+}  

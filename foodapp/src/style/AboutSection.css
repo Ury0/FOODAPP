@@ -1,0 +1,17 @@
+.aboutSection{
+    border: 1px solid black;
+    margin: 0px 20px 0px 20px;
+    padding: 50px;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.moldura{
+    width: 1200px;
+}
+.moldura>h2{
+    margin: 30px;
+}
+.moldura>p{
+    margin-left: 100px;
+}

@@ -1,0 +1,9 @@
+.formsection{
+    border: 1px solid black;
+    margin: 0px 20px 0px 20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.BannerSection{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 0px 20px 0px 20px;
+}
+.sec1{
+    translate: 150px 150px;
+}
+.BannerSection p{
+    width: 300px;
+}
