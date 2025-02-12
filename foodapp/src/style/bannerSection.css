@@ -1,9 +1,11 @@
 .BannerSection{
     display: flex;
     justify-content: space-around;
-    border: 1px solid black;
+    background-color: #eadece;
     padding: 20px;
     margin: 0px 20px 0px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 .sec1{
     translate: 150px 150px;

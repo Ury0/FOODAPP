@@ -3,8 +3,10 @@
     width: 100%;
 }
 .restauranteCard{
-    border: 1px solid black;
     width: 300px;
     
 
+}
+.restauranteCard>h3{
+    font-size: 24px;
 }

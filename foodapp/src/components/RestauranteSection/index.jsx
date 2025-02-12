@@ -11,13 +11,13 @@ export const RestauranteSection = () => {
         {
             id: 2,
             img: "src/assets/Restaurant2.png",
-            titulo: "pizza",
+            titulo: "carne",
             descriçao: "lorem ipsom"
         },
         {
             id: 3,
             img: "src/assets/Restaurant3.png",
-            titulo: "pizza",
+            titulo: "peixe",
             descriçao: "lorem ipsom"
         }
     ]
